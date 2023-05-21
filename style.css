@@ -120,7 +120,7 @@ body {
   margin-top: 50px;
 }
 
-@media (max-width: 359px) {
+@media (max-width: 375px) {
   .container {
     flex-direction: column;
     width: 300px;
